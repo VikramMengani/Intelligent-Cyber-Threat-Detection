@@ -59,7 +59,7 @@ Demonstrated reduction in false positives through better feature selection
 
 ⚙️ How to Run the Project
 1️. Clone the Repository
-git clone https://github.com/your-username/intelligent-cyber-threat-detection.git
+git clone https://github.com/VikramMengani/Intelligent-Cyber-Threat-Detection.git
 cd intelligent-cyber-threat-detection
 
 2️. Install Dependencies
