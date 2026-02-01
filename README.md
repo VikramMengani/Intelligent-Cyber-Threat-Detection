@@ -57,7 +57,7 @@ Demonstrated reduction in false positives through better feature selection
 
 (Add graphs or metrics screenshots in this section for stronger impact)
 
-⚙️ How to Run the Project
+How to Run the Project
 1️. Clone the Repository
 git clone https://github.com/VikramMengani/Intelligent-Cyber-Threat-Detection.git
 cd intelligent-cyber-threat-detection
@@ -89,7 +89,7 @@ intelligent-cyber-threat-detection/
 ├── requirements.txt
 └── LICENSE
 
-🔮 Future Improvements
+Future Improvements
 
 Integration with real-time log streams
 
@@ -99,14 +99,14 @@ Deployment as a web-based security monitoring tool
 
 Integration with SIEM platforms
 
-📄 Publication
+Publication
 
 This project was published in the Journal of Technology as part of academic research on intelligent cybersecurity systems.
 
-👤 Author
+Author
 
 Vikram Mengani
 AI & Cybersecurity Enthusiast
-📍 Hyderabad, India
+Hyderabad, India
 
-🔗 LinkedIn: https://www.linkedin.com/in/vikrammengani/
+LinkedIn: https://www.linkedin.com/in/vikrammengani/
